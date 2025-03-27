@@ -1,12 +1,12 @@
 # johan8946
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![React](https://img.shields.io/badge/React-Expert-blue)
-![Node.js](https://img.shields.io/badge/Node.js-Expert-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?logo=javascript)
+![React](https://img.shields.io/badge/React-Expert-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green?logo=node.js)
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-orange?logo=tensorflow)
-![English](https://img.shields.io/badge/English-B1-brightgreen)
+![English](https://img.shields.io/badge/English-B1-brightgreen?logo=google-translate)
 
 
 ## Web Developer
