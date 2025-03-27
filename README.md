@@ -4,8 +4,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![React](https://img.shields.io/badge/React-Expert-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-Expert-green)
-![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Expert-orange?logo=tensorflow)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-orange?logo=tensorflow)
 ![English](https://img.shields.io/badge/English-B1-brightgreen)
 
 
