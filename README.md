@@ -21,8 +21,8 @@ Hi! I'm Johan Sebastian, an enthusiastic web developer with experience in variou
 | JavaScript | Node.js    | AWS                  |
 | HTML       | Express    | Cloudinary           |
 | CSS        | PostgreSQL | Docker               |
-| React      |     
-| TypeScript |
+| React      | Python     | TensorFlow           |
+| TypeScript |            | Arduino              |
 | Sass       |
 
 ### Notable Projects
